@@ -1,0 +1,56 @@
+{
+  "updated": "2026-11-19",
+  "policy": "Public records only: canonical linkedin.com/youtu.be URLs, exact displayed titles and dates verified from the published page. No slug inference, no drafts or editor URLs.",
+  "items": [
+    {
+      "id": "nvidia",
+      "kind": "LinkedIn article",
+      "date": "18 November 2026",
+      "url": "https://www.linkedin.com/pulse/nvidia-corporate-side-story-igor-osipov-nzi0e/",
+      "title": "NVIDIA: the corporate side of the story",
+      "blurb": {
+        "default": "A corporate-governance reading of NVIDIA's leadership change: executive disclosures, independent directors, insurance and shareholder litigation."
+      }
+    },
+    {
+      "id": "pl",
+      "kind": "LinkedIn article",
+      "date": "15 November 2026",
+      "url": "https://www.linkedin.com/pulse/ai-agents-belong-workforce-pl-budget-igor-osipov-yj01e",
+      "title": "AI agents belong in the workforce P&L, not the IT budget",
+      "blurb": {
+        "advisory": "Put the cost of AI agents next to the cost of people and manage one workforce cost view. Not because agents are employees. They aren't. But they are doing more and more of the work alongside people.",
+        "default": "Put the cost of AI agents next to the cost of people and manage one workforce cost view."
+      }
+    },
+    {
+      "id": "data",
+      "kind": "LinkedIn article",
+      "date": "11 November 2026",
+      "url": "https://www.linkedin.com/pulse/old-data-strategy-igor-osipov-s1t8e",
+      "title": "Your data is valuable for AI? LOL",
+      "blurb": {
+        "advisory": "Owning a basement full of boxes is not the same as running a library. Old data is not an asset until somebody can find it, trust it and use it.",
+        "default": "Old data is not an asset until somebody can find it, trust it and use it."
+      }
+    },
+    {
+      "id": "post",
+      "kind": "LinkedIn post",
+      "date": "24 October 2026",
+      "url": "https://www.linkedin.com/posts/igorosipov_this-year-ive-tested-a-lot-of-ai-agents-activity-7519752465576108032-nF9B",
+      "title": "This year I've tested a lot of AI agents…",
+      "blurb": {
+        "default": "Most of them talk well and get very little done. Or they cost an arm and a leg."
+      }
+    },
+    {
+      "id": "grem",
+      "kind": "И Грянул Грэм",
+      "date": "November 2026 (in Russian)",
+      "url": "https://youtu.be/7mGmIzXN65Q",
+      "title": "Interview: NVIDIA, Anthropic, OpenAI, and whether AI is a bubble",
+      "blurb": {}
+    }
+  ]
+}
